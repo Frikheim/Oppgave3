@@ -1,0 +1,41 @@
+2020-11-05T16:18:02.6528473+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:18:02.6698281+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:18:02.6733344+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T16:23:24.4534068+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:23:24.4809423+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:23:24.4909871+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T16:27:11.7875628+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:27:11.8106941+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:27:11.8163340+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T16:39:49.8604626+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:39:49.8766057+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:39:49.8798770+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T16:44:31.7117936+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:44:31.7242497+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:44:31.7267567+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T16:46:27.0527030+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:46:27.0694431+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:46:27.0755034+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T16:46:43.3675438+01:00  [ERR] ERROR in app/liste/liste.ts:28:51 - error TS2551: Property 'downvotes' does not exist on type 'Faq'. Did you mean 'downVotes'?
+
+28         console.log("downvotes: "+this.allFaqs[0].downvotes);
+                                                     ~~~~~~~~~
+
+  app/Faq.ts:7:3
+    7   downVotes: string
+        ~~~~~~~~~
+    'downVotes' is declared here.
+
+ (008bc21e)
+2020-11-05T16:48:01.2896233+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:48:01.3058076+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:48:01.3108453+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T17:02:41.9470205+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T17:02:41.9660313+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T17:02:41.9764471+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T17:16:14.7217310+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T17:16:14.7377239+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T17:16:14.7425538+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
+2020-11-05T17:57:01.6509733+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T17:57:01.6734381+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T17:57:01.6800288+01:00  [INF] Content root path: "C:\Users\fredr\source\repos\Oppgave3\Oppgave3" (b5d60022)
